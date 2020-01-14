@@ -24,5 +24,6 @@ function acordeon() {
 	}	
 
     var accordion = new Accordion($('#accordion'), false);
-    var accordion2 = new Accordion($('#accordion2'), false);
+	var accordion2 = new Accordion($('#accordion2'), false);
+	var accordion3 = new Accordion($('#accordion3'), false);
 }
