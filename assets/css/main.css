@@ -3702,7 +3702,7 @@ input, select, textarea {
 	  }
 	  ul { list-style-type: none; }
 	  a {
-		color: #b63b4d;
+		color: #cf8119;
 		text-decoration: none;
 	  }
 	  
@@ -3749,9 +3749,9 @@ input, select, textarea {
 	font-size: 8px;
   }
   
-  .accordion li.open .link { color: #b63b4d; }
+  .accordion li.open .link { color: #fdcb57; }
   
-  .accordion li.open i { color: #b63b4d; }
+  .accordion li.open i { color: #fdcb57; }
   
   .accordion li.open i.fa-chevron-down {
 	-webkit-transform: rotate(180deg);
