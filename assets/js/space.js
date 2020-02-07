@@ -3,8 +3,8 @@ STAR_SIZE = 3,
 STAR_MIN_SCALE = 0.2,
 OVERFLOW_THRESHOLD = 50;
 
-const canvas = document.querySelector('canvas'),
-context = canvas.getContext('2d');
+const canvas = document.querySelector('canvas');
+//context = canvas.getContext('2d');
 
 let scale = 1, // device pixel ratio
 width,
